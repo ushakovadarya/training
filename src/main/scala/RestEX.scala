@@ -59,7 +59,7 @@ object RestEX {
             entity(as[Order]) { order =>
               val saved: Future[Done] = saveOrder(order)
               onSuccess(saved) { _ => // we are not interested in the result value `Done` but only in the fact that it was successful
-                complete("order created")
+                complete("Order Created")
               }
             }
           }
