@@ -1,0 +1,4 @@
+[debug] > Exec(shell, None, None)
+[info] sbt server started at local:sbt-server-56dcf49dca1dfb3b99b9
+[debug] Writing bsp connection file
+[info] started sbt server

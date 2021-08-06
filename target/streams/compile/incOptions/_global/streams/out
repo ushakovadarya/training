@@ -1,0 +1,50 @@
+[debug] Created transactional ClassFileManager with tempDir = E:\Users\566\Desktop\Scala\tranning\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	StorageClient$Storage$Get.class
+[debug] 	Pubs$.class
+[debug] 	Pubs$PubSubMediator$AlreadySubscribed$.class
+[debug] 	Pubs$PubSubMediator$Subscribed.class
+[debug] 	Pubs$PubSubMediator$Subscribe$.class
+[debug] 	Pubs$PubSubMediator$GetSubscribers.class
+[debug] 	StorageClient$Storage$Put$.class
+[debug] 	Pubs$PubSubMediator$$anonfun$receive$1.class
+[debug] 	StorageClient$Client$$anonfun$receive$1.class
+[debug] 	Pubs$PubSubMediator$Published.class
+[debug] 	StorageClient$Client$Process$.class
+[debug] 	StorageClient$delayedInit$body.class
+[debug] 	StorageClient$Client$$anonfun$process$2.class
+[debug] 	Pubs$PubSubMediator$.class
+[debug] 	Pubs$PubSubMediator$NotSubscribed$.class
+[debug] 	StorageClient.class
+[debug] 	StorageClient$Storage$.class
+[debug] 	Pubs$PubSubMediator$Unsubscribe.class
+[debug] 	StorageClient$Client.class
+[debug] 	Pubs$PubSubMediator$Publish.class
+[debug] 	Pubs$PubSubMediator$Unsubscribe$.class
+[debug] 	StorageClient$Storage$Delete$.class
+[debug] 	Pubs$PubSubMediator$NotSubscribed.class
+[debug] 	StorageClient$.class
+[debug] 	StorageClient$Storage$Delete.class
+[debug] 	Pubs$PubSubMediator$Unsubscribed$.class
+[debug] 	Pubs$PubSubMediator$Subscribed$.class
+[debug] 	StorageClient$Storage.class
+[debug] 	StorageClient$Storage$GetResult$.class
+[debug] 	StorageClient$Storage$Put.class
+[debug] 	StorageClient$Storage$GetResult.class
+[debug] 	Pubs$PubSubMediator$Unsubscribed.class
+[debug] 	StorageClient$Client$Connect$.class
+[debug] 	StorageClient$Client$.class
+[debug] 	Pubs$PubSubMediator$Subscribe.class
+[debug] 	Pubs$PubSubMediator$Published$.class
+[debug] 	StorageClient$Storage$Ack$.class
+[debug] 	StorageClient$Client$Connect.class
+[debug] 	Pubs$PubSubMediator$AlreadySubscribed.class
+[debug] 	Pubs.class
+[debug] 	Pubs$PubSubMediator.class
+[debug] 	StorageClient$Storage$Get$.class
+[debug] 	Pubs$PubSubMediator$GetSubscribers$.class
+[debug] 	Pubs$PubSubMediator$Publish$.class
+[debug] 	StorageClient$Storage$$anonfun$process$1.class
+[debug] Removing the temporary directory used for backing up class files: E:\Users\566\Desktop\Scala\tranning\target\scala-2.12\classes.bak

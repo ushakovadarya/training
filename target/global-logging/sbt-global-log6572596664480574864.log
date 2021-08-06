@@ -1,0 +1,17 @@
+[debug] > Exec(all {file:/E:/Users/566/Desktop/Scala/tranning/}tranning/products {file:/E:/Users/566/Desktop/Scala/tranning/}tranning/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to E:\Users\566\Desktop\Scala\tranning\target\scala-2.12\classes ...
+[error] E:\Users\566\Desktop\Scala\tranning\src\main\scala\Pubs.scala:55:36: illegal start of simple expression
+[error]   val sub1 = Subscribe("Greeting", )
+[error]                                    ^
+[error] E:\Users\566\Desktop\Scala\tranning\src\main\scala\Pubs.scala:56:1: ')' expected but '}' found.
+[error] }
+[error] ^
+[error] two errors found
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 4 s, completed 20.07.2021 16:45:38
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
